@@ -1,6 +1,6 @@
 # pixel_lab
 
-A new Flutter project.
+A new Flutter wallpaper app.
 
 ## Getting Started
 
